@@ -18,7 +18,7 @@ import java.text.NumberFormat;
  */
 public class MainActivity extends AppCompatActivity {
 
-    int quantity = 99;
+    int quantity = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
